@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Holopin](https://holopin.onrender.com/FundayStrike)](https://holopin.io/@FundayStrike)
+[![@FundayStrike's Holopin board](https://holopin.io/api/user/board?user=FundayStrike)](https://holopin.io/@FundayStrike)
 
 <!--
 **FundayStrike/FundayStrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
