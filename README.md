@@ -1,3 +1,5 @@
+grinding projects 24/7
+
 [![An image of @fundaystrike's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fundaystrike)](https://holopin.io/@fundaystrike)
 
 <!--
