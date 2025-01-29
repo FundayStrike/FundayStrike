@@ -1,6 +1,6 @@
 [![An image of @fundaystrike's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fundaystrike)](https://holopin.io/@fundaystrike)
 
-Website: http://bryantbj.com
+Website: http://bryantbj.com<br/>
 CTF/Programming blog: https://fundaystrike.github.io/blog
 <!--
 **FundayStrike/FundayStrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
